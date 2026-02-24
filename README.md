@@ -27,7 +27,7 @@
 ## Current Projects
 
 - ☎️ **[Mobayilo](https://mobayilo.com)** – Make international calls directly from your browser. 
-- 💻 **[Mobayilo CLI](https://mobycli.mobayilo.com)** – Moby - Mobayilo in your terminal. 
+- 💻 **[Mobayilo CLI](https://mobycli.mobayilo.com)** – moby | Mobayilo in your terminal. 
 - 👩🏽‍💻 **[DevHub](https://dev.adusingi.com)** – Web Development Resources Hub 
 - ✈️ **[Bentokumiko](https://bentokumiko.com)** – Curated guide to restaurants, patisseries, artisans, and special stays across Japan.
 - 🌊 **[Ushimadotown](https://ushimadotown.com)** – Business directory and event listings for Ushimado, Japan. 
