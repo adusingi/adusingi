@@ -40,4 +40,4 @@ Beyond building and coding, these are the disciplines that shape my daily life a
 - 🏫 **[Mentor & Teaching](https://ushimadotown.com)** – Teaching & helping beginners and builders turn ideas into real projects using AI. 
 - 🇯🇵 **[Japan Consultation](https://www.adusingi.com/contact.html)** – Organizing team-building retreats in Japan and provide travel planning for individuals or teams.
 - ✍🏼 **[Blog](https://www.adusingi.com/blog.html)** – Writing about AI, blockchain, and code experiments. Building tools and documenting processes.
-- ⚡️ **[Tai-Chi Chuan - 太極拳](https://www.youtube.com/watch?v=v9P1e4yOWJg&t=1s)** – Practitioner (4+ years) under Master Kiyoko Kashiwagi, with a diploma from Grandmaster William C.C. Chen lineage. 
+- ⚡️ **[Tai-Chi Chuan - 太極拳](https://www.youtube.com/watch?v=v9P1e4yOWJg&t=1s)** – Practitioner (4+ years) under Master Kiyoko Kashiwagi (柏木規与子), with a diploma from Grandmaster William C.C. Chen lineage. 
