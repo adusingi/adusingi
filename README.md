@@ -20,7 +20,7 @@
 > Builder, explorer, and Tai-Chi (太極拳) practitioner based in Okayama.
 > I build digital products, organize travel experiences, and bridge technology with Japanese culture.
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adusingi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
