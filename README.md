@@ -4,15 +4,21 @@
 📍 Africa ↔ Japan | 🤖 Crafting digital products from rural Japan.
 
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=rubyonrails&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue)
-![Node.js](https://img.shields.io/badge/Node.js-green)
-![Codex](https://img.shields.io/badge/Codex-black)
-![Ghostty](https://img.shields.io/badge/Ghostty-000000?logo=ghost&logoColor=white)
-![CakePHP](https://img.shields.io/badge/CakePHP-D33C43?logo=cakephp&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-black)
-![Web](https://img.shields.io/badge/Web-blue)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000)
+![Ghostty](https://img.shields.io/badge/Ghostty-000000?logo=ghostty&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
 
 
 
