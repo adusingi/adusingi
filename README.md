@@ -26,8 +26,6 @@
 > Builder, explorer, and Tai-Chi (太極拳) practitioner based in Okayama.
 > I build digital products, organize travel experiences, and bridge technology with Japanese culture.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adusingi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ## Current Projects
@@ -36,24 +34,27 @@
 
 - ☎️ **[Mobayilo](https://mobayilo.com)** – Make international calls directly from your browser.
 - 💻 **[Mobayilo CLI](https://mobycli.mobayilo.com)** – moby | Mobayilo in your terminal.
-- 📥 **[Clarity Board](https://inbox.mobayilo.com)** – Mail and calendar command center with an AI chat agent.
+- 📥 **[Clarity Board](https://inbox.mobayilo.com)** – Mail and calendar command center with an AI chat agent · [CLI](https://github.com/adusingi/clarity-cli)
 - 🎓 **[Mobayilo Academy](https://academy.mobayilo.com)** – Learn to build and ship real products in the AI era.
 - 🎵 **[Umuzika](https://umuzika.com)** – Private music streaming you share with the people you choose.
+- 🗺️ **[Doko Maps](https://www.dokomaps.com)** – Itinerary workspace for travel professionals.
+- 🎙️ **[Veronese](https://veronesebook.com)** – Start your podcast with just your phone; hosting and RSS handled.
 
 **Sites & Tools**
 
 - 👩🏽‍💻 **[DevHub](https://dev.mobayilo.com)** – AI-native web development resources hub.
 - ✈️ **[Bentokumiko](https://bentokumiko.com)** – Curated guide to restaurants, patisseries, artisans, and special stays across Japan.
-- 🌍 **[My Trip](https://mytrip.bentokumiko.com)** – Travel social network on a 3D globe.
 - 🕰️ **[World Time](https://meeting.mobayilo.com)** – World clock and meeting planner on a WebGL globe.
 - 🌊 **[Ushimadotown](https://ushimadotown.com)** – Business directory and event listings for Ushimado, Japan.
 - 📚 **[Inkoranyamuga](https://inkoranyamuga.mobayilo.com)** – Kinyarwanda IT dictionary and public API.
 - 🖼️ **[files.mobayilo.com](https://files.mobayilo.com)** – Drop an image, get a permanent public URL. Cloudflare Worker on R2.
+- 📡 **[Indebero](https://indebero.mobayilo.com)** – Uptime, certificate and server monitoring in one Go binary.
 
 **Open source**
 
 - 🔖 **[Curator Board](https://github.com/adusingi/curator-board)** – Self-hosted link curation board · [live](https://news.infiniwa.com)
 - 🎨 **[@mobayilo/design-system](https://github.com/adusingi/design-system)** – Shared themes, UI, and magic-link auth packages.
+- 🌐 **[adusingi-web](https://github.com/adusingi/adusingi-web)** – Source of adusingi.com: framework-free TypeScript portfolio, blog, and newsletter · [live](https://adusingi.com)
 
 - 💪🏽 – Keep building
 
