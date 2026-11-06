@@ -11,6 +11,7 @@
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=rubyonrails&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-CE422B?logo=rust&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=black)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
@@ -33,17 +34,19 @@
 **Products**
 
 - ☎️ **[Mobayilo](https://mobayilo.com)** – Make international calls directly from your browser.
-- 💻 **[Mobayilo CLI](https://mobycli.mobayilo.com)** – moby | Mobayilo in your terminal.
-- 📥 **[Clarity Board](https://inbox.mobayilo.com)** – Mail and calendar command center with an AI chat agent · [CLI](https://github.com/adusingi/clarity-cli)
 - 🎓 **[Mobayilo Academy](https://academy.mobayilo.com)** – Learn to build and ship real products in the AI era.
-- 🎵 **[Umuzika](https://umuzika.com)** – Private music streaming you share with the people you choose.
+- ✈️ **[Bentokumiko](https://bentokumiko.com)** – Personal day-by-day Japan itineraries with stays, transport, and a clear budget.
 - 🗺️ **[Doko Maps](https://www.dokomaps.com)** – Itinerary workspace for travel professionals.
+- 📅 **[AlignPoll](https://alignpoll.com)** – Free scheduling poll: propose dates, share one link, collect Yes / Maybe / No. Built in Rust.
+- 📥 **[Clarity Board](https://inbox.mobayilo.com)** – Mail and calendar command center with an AI chat agent · [CLI](https://github.com/adusingi/clarity-cli)
 - 🎙️ **[Veronese](https://veronesebook.com)** – Start your podcast with just your phone; hosting and RSS handled.
+- 🎵 **[Umuzika](https://umuzika.com)** – Private music streaming you share with the people you choose.
+- 💻 **[Mobayilo CLI](https://mobycli.mobayilo.com)** – moby | Mobayilo in your terminal.
+- ✅ **[Focus Zen](https://github.com/adusingi/focus-zen)** – A quiet desktop checklist for follow-ups. Open source, Rust + Tauri.
 
 **Sites & Tools**
 
 - 👩🏽‍💻 **[DevHub](https://dev.mobayilo.com)** – AI-native web development resources hub.
-- ✈️ **[Bentokumiko](https://bentokumiko.com)** – Curated guide to restaurants, patisseries, artisans, and special stays across Japan.
 - 🕰️ **[World Time](https://meeting.mobayilo.com)** – World clock and meeting planner on a WebGL globe.
 - 🌊 **[Ushimadotown](https://ushimadotown.com)** – Business directory and event listings for Ushimado, Japan.
 - 📚 **[Inkoranyamuga](https://inkoranyamuga.mobayilo.com)** – Kinyarwanda IT dictionary and public API.
