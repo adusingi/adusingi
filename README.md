@@ -42,7 +42,7 @@
 - 🎙️ **[Veronese](https://veronesebook.com)** – Start your podcast with just your phone; hosting and RSS handled.
 - 🎵 **[Umuzika](https://umuzika.com)** – Private music streaming you share with the people you choose.
 - 💻 **[Mobayilo CLI](https://mobycli.mobayilo.com)** – moby | Mobayilo in your terminal.
-- ✅ **[Focus Zen](https://github.com/adusingi/focus-zen)** – A quiet desktop checklist for follow-ups. Open source, Rust + Tauri.
+- ✅ **[Focus Zen](https://focus.mobayilo.com)** – A simple to-do list for Mac: one list, nothing else, and your list never leaves your Mac. Free and open source, Rust + Tauri · [source](https://github.com/adusingi/focus-zen)
 
 **Sites & Tools**
 
